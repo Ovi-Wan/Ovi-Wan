@@ -3,5 +3,5 @@
 ## Student in Informatics 📚🧑‍💻
 ## Skills:
 ## <img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBkM3BzMDFzM2p0NTBkNGx0djZicWc1eHJ5ajIxaWRtcTVyNXgxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif alt="Descriere imagine" width="300"/>
-## <img src=![nmuax05zxoab1](https://github.com/user-attachments/assets/82d7e946-5cc1-49a6-b5a7-6343c58137ff)
+## <img src=https://private-user-images.githubusercontent.com/186699563/402511598-82d7e946-5cc1-49a6-b5a7-6343c58137ff.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY3NjU3NzQsIm5iZiI6MTczNjc2NTQ3NCwicGF0aCI6Ii8xODY2OTk1NjMvNDAyNTExNTk4LTgyZDdlOTQ2LTVjYzEtNDlhNi1iNWE3LTYzNDNjNTgxMzdmZi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExM1QxMDUxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OTM2ODhkZjgwZmM1ODQ0MDgyMGNhZWRmMGZlZjAzYzY4MGQ3MzMyM2Q2MzQzMWUzNzk1NzdkNjdjYzc1ODRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aXjj6-dhkzh_O1ijLHwp3DfOvhtBu3VYO7-X4PRVaKQ
  alt="Descriere imagine" width="300"/>
