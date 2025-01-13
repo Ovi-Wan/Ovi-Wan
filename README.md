@@ -2,5 +2,5 @@
 ## 19 years old 🌱
 ## Student in Informatics 📚🧑‍💻
 ## Skills:
-## ![image](https://github.com/user-attachments/assets/fb54a114-e554-4ef2-8b8b-a785e30d511a)
+## ![giphy](https://github.com/user-attachments/assets/6e94c3a2-b6ae-4fae-9ab1-f6f52aaa6264)
 
