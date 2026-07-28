@@ -9,8 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 20 years old, currently studying **Informatics**
-- 💡 Interested in embedded systems, web dev, and building things that actually run
-- 🔧 Recently built: a smart electronic fuse simulator in C (fault detection, I²T protection, auto-retry) and a football "higher-or-lower" web game
+- 💡 Interested in embedded systems, web dev, automotive, electronics, video games and building things that actually run
 - 📫 Reach me at: **[oviwansan@gmail.com]**
 
 <br>
