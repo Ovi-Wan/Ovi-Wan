@@ -42,21 +42,6 @@
 
 
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Ovi-Wan/SuperligaHigherLower">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ovi-Wan&repo=SuperligaHigherLower&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Ovi-Wan/electronic-fuse-controller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ovi-Wan&repo=electronic-fuse-controller&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -68,12 +53,6 @@
 </div>
 
 <br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ovi-Wan&color=36BCF7&style=for-the-badge)
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
